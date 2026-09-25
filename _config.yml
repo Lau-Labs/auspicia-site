@@ -1,0 +1,15 @@
+title: Auspicia
+tagline: Auspicious days, three ways
+description: Auspicia rates every day through three Chinese traditions, the almanac, your BaZi chart and Feng Shui, and marks the days when all three agree.
+url: https://auspicia.app
+email: support@auspicia.app
+publisher: Lau Labs
+
+# Fill these in once the app is live on the App Store.
+# app_store_url example: https://apps.apple.com/app/id1234567890
+app_store_url: ""
+app_store_id: ""
+
+markdown: kramdown
+exclude:
+  - README.md
